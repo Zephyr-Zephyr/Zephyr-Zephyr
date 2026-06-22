@@ -32,7 +32,7 @@ I am a web developer, Owner of Lunaris Hub, and Co-Owner of Orion Studios. I'm c
 
 ## Contact
 
-- GitHub: `https://github.com/your-username`
-- Discord: `yourDiscord#1234`
+- GitHub: `https://github.com/Zephyr-Zephyr`
+- Discord: `Zephyr🌴`
 
 > I'm a motivated beginner and I learn more every day. Thanks for checking out my profile!
